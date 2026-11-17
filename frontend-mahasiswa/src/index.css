@@ -1,0 +1,21 @@
+
+@import "tailwindcss";
+
+/* Pengaturan dasar halaman */
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100%;
+}
+
+/* Pengaturan body */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f8fafc;
+}
+
+/* Pengaturan box sizing */
+* {
+  box-sizing: border-box;
+}
